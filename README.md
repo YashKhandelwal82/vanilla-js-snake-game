@@ -59,7 +59,9 @@ This project highlights my strong understanding of core JavaScript concepts:
 ## 📂 Project Structure
 
 ├── index.html # Game layout
+
 ├── style.css # Styling & UI
+
 ├── script.js # Game logic
 
 
@@ -83,7 +85,7 @@ This project reflects my ability to build interactive web applications from scra
 Aspiring Full Stack / JavaScript Developer  
 
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- LinkedIn: https://www.linkedin.com/in/yash-khandelwal-26a5012a9/
 
 ---
 
