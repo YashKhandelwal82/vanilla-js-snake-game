@@ -84,7 +84,7 @@ This project reflects my ability to build interactive web applications from scra
 **Yash Khandelwal**  
 Aspiring Full Stack / JavaScript Developer  
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/YashKhandelwal82
 - LinkedIn: https://www.linkedin.com/in/yash-khandelwal-26a5012a9/
 
 ---
